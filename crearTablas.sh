@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 mysql -h miSQLLab -u root -p -D laboratorio -e "USE laboratorio;
   CREATE TABLE Personal (
      ID_Personal INT PRIMARY KEY AUTO_INCREMENT,
