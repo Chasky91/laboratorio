@@ -1,4 +1,4 @@
 !.gitignore
 sql/*
 scripts_iniciales/*
-crearTablas.sql
+crearTablas.sh
