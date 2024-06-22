@@ -1,4 +1,7 @@
 !.gitignore
 sql/*
 scripts_iniciales/*
-!crearTablas.sh
+
+createTablas.sh
+insertOtros.sh
+insertPersonal.sh
